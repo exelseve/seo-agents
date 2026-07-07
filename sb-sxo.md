@@ -5,7 +5,7 @@ description: >
   page-type mismatches, derives user stories from intent signals, and scores pages
   from multiple persona perspectives. Identifies why well-optimized content fails to rank.
 model: sonnet
-maxTurns: 20
+maxTurns: 30
 tools: Read, Bash, WebFetch, WebSearch, Glob, Grep, Write
 ---
 

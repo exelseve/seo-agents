@@ -2,7 +2,7 @@
 name: sb-schema-audit
 description: Schema markup expert. Detects, validates, and generates Schema.org structured data in JSON-LD format.
 model: sonnet
-maxTurns: 15
+maxTurns: 30
 tools: Read, Bash, Write
 ---
 

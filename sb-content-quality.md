@@ -2,7 +2,7 @@
 name: sb-content-quality
 description: Content quality reviewer. Evaluates E-E-A-T signals, readability, content depth, AI citation readiness, and thin content detection.
 model: sonnet
-maxTurns: 15
+maxTurns: 30
 tools: Read, Bash, Write, Grep
 ---
 

@@ -2,7 +2,7 @@
 name: sb-tech-audit
 description: Technical SEO specialist. Analyzes crawlability, indexability, security, URL structure, mobile optimization, Core Web Vitals, and JavaScript rendering.
 model: sonnet
-maxTurns: 20
+maxTurns: 30
 tools: Read, Bash, Write, Glob, Grep  # Write needed for report/data file output
 ---
 

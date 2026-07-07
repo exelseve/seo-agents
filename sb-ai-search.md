@@ -2,7 +2,7 @@
 name: sb-ai-search
 description: GEO and AI search specialist. Analyzes AI crawler accessibility, llms.txt compliance, passage-level citability, brand mention signals, and platform-specific optimization for Google AI Overviews, ChatGPT, Perplexity, and Bing Copilot.
 model: sonnet
-maxTurns: 20
+maxTurns: 30
 tools: Read, Bash, WebFetch, Glob, Grep, Write
 ---
 
